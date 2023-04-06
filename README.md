@@ -1,1 +1,3 @@
 # OT2RandomPasswordGenerator
+
+This code for Java Script is built to be able to generate a random password. The user is prompted with different questions to be able to customize their password with their specific needs. Once the user has answered all the questions, the password will be randomly generated. If wanted to execute the proccess again, it will prompt the same questions and will output a new password with the new specified needs that were made.
